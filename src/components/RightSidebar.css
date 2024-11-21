@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  
+  
+  .content {
+    margin-left: 20px;
+    color: #686a6d;
+    max-width: 100%; 
+  }
+  
+  .meta-posts{
+    background-color: rgb(241, 240, 239);
+    width: 100%;
+  }
+ .main-head{
+    padding:25px
+ }
+
+ .custom-filter{
+    border: solid;
+    border-color: rgb(197, 197, 201);
+    padding: 10px;
+    color: blue;
+ }
